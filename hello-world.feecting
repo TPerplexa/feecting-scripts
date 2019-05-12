@@ -1,0 +1,56 @@
+# My first #FEECTING Hello World Here We Go! 
+
+## DISCLAIMER
+> This is a basic #FEECTING Hello World Here We Go scripts
+
+// VARIABLES
+$FEECTING = https://github.com/indraai/language-feecting/
+
+@TPerplexa = https://twitter.com/TPerplexa
+@feecting = https://twitter.com/feecting
+
+#FEECTING is a natural programming and interface language for humans and AI
+
+-- BEGIN:OUTLINE
+
+  1. Who? @TPerplexa
+  2. What? Hello World Here We Go scripts
+  3. When? Today
+  4. Where? Internet
+  5. Why? Because the #FEECTING human AI interface is for the public.
+
+-- END:OUTLINE
+
+-- BEGIN:PROGRAM
+
+  Hello World Here We Go with @TPerplexa #FEECTING script.
+
+-- END:PROGRAM
+
+-- BEGIN:META
+
+  Title: My first #FEECTING Hello World Here We Go!
+  Version: 1.0
+  Author: @TPerplexa
+  Date:
+  Copyright: Copyright (c) @TPerplexa. All Rights Reserved
+  License:
+    Permission is hereby granted, free of charge, to any person obtaining a
+    copy of this PROGRAM and associated documentation files (the "PROGRAM"),
+    to deal in the PROGRAM without restriction, including without limitation
+    the rights to use, copy, modify, merge, publish, distribute, sublicense,
+    and/or sell copies of the PROGRAM, and to permit persons to whom the PROGRAM
+    is furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included
+    in all copies or substantial portions of the PROGRAM.
+
+    THE PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR
+    OTHER DEALINGS IN THE PROGRAM.
+
+-- END:META
